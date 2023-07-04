@@ -32,14 +32,12 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.0/51736992f422993a1e741051bdf3c12801bc1ca1/kotlin-stdlib-common-1.7.0.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
         </processorPath>
-        <module name="com.github.apprentice.cat.phoenix.common.vertxcore.main" />
         <module name="com.github.apprentice.cat.phoenix.app.main" />
         <module name="com.github.apprentice.cat.phoenix.Infrastructure.database.postgresql.main" />
         <module name="com.github.apprentice.cat.phoenix.list.main" />
         <module name="com.github.apprentice.cat.phoenix.Infrastructure.main" />
         <module name="com.github.apprentice.cat.phoenix.Infrastructure.database.main" />
         <module name="com.github.apprentice.cat.phoenix.common.main" />
-        <module name="com.github.apprentice.cat.phoenix.utilities.main" />
         <module name="com.github.apprentice.cat.phoenix.presentation.applicationFramework.main" />
         <module name="com.github.apprentice.cat.phoenix.presentation.main" />
         <module name="com.github.apprentice.cat.phoenix.common.core.main" />

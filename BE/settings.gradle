@@ -8,11 +8,9 @@
  */
 
 rootProject.name = 'com.github.apprentice.cat.phoenix'
-include('app', 'list', 'utilities')
+include('app', 'list')
 include 'presentation:applicationFramework'
 findProject(':presentation:applicationFramework')?.name = 'applicationFramework'
-include 'common:vertxcore'
-findProject(':common:vertxcore')?.name = 'vertxcore'
 include 'common:core'
 findProject(':common:core')?.name = 'core'
 include 'Infrastructure:database:postgresql'

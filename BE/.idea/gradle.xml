@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -16,11 +17,9 @@
             <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/common/core" />
-            <option value="$PROJECT_DIR$/common/vertxcore" />
             <option value="$PROJECT_DIR$/list" />
             <option value="$PROJECT_DIR$/presentation" />
             <option value="$PROJECT_DIR$/presentation/applicationFramework" />
-            <option value="$PROJECT_DIR$/utilities" />
           </set>
         </option>
       </GradleProjectSettings>
