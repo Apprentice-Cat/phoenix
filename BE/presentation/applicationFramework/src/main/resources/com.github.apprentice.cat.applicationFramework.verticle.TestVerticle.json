@@ -1,0 +1,10 @@
+{
+  "main": "dagger:com.github.apprentice.cat.applicationFramework.verticle.TestVerticle",
+  "options": {
+    "config" : {
+      "foo": "bar"
+    },
+    "worker": true,
+    "isolationGroup": "mygroup"
+  }
+}
